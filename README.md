@@ -11,5 +11,6 @@ Input:
    r, annual rate of interest
 Output
    simple interest = p*t*r
+```
 
-2023 xyz, inc.
+_© 2022 XYZ, Inc._
